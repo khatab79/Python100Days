@@ -6,7 +6,7 @@
 - https://replit.com/@khatab79/day-2-2-exercise#main.py
 - https://replit.com/@khatab79/day-2-3-exercise#main.py
 
-## Band Name Generator
+## Tip Calculator
 
 ![band name generator](002_day2.gif)
 

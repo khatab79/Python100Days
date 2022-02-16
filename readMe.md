@@ -10,6 +10,7 @@
 ## 👨🏻‍🎓 Beginner
 - [Day 1](Day001): Working with Variables in Python to Manage Data
 - [Day 2](Day002): Understanding Data Types and How to Manipulate Strings
+- [Day 3](Day003): Control Flow and Logical Operators
 
 ## Tools and technologies
 
