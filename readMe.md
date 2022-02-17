@@ -11,6 +11,7 @@
 - [Day 1](Day001): Working with Variables in Python to Manage Data
 - [Day 2](Day002): Understanding Data Types and How to Manipulate Strings
 - [Day 3](Day003): Control Flow and Logical Operators
+- [Day 4](Day004): Randomisation and Python Lists
 
 ## Tools and technologies
 
