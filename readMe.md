@@ -12,6 +12,7 @@
 - [Day 2](Day002): Understanding Data Types and How to Manipulate Strings
 - [Day 3](Day003): Control Flow and Logical Operators
 - [Day 4](Day004): Randomisation and Python Lists
+- [Day 5](Day005): Python Loops
 
 ## Tools and technologies
 
