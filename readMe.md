@@ -13,7 +13,7 @@
 - [Day 3](Day003): Control Flow and Logical Operators
 - [Day 4](Day004): Randomisation and Python Lists
 - [Day 5](Day005): Python Loops
-
+- [Day 6](Day006): Python Functions & Karel
 ## Tools and technologies
 
 - Python 3

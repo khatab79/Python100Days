@@ -9,6 +9,6 @@
 
 ## Password Generator
 
-![band name generator](005_day5.gif)
+![Password Generator](005_day5.gif)
 
 https://replit.com/@khatab79/password-generator-start#main.py

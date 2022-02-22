@@ -8,6 +8,6 @@
 
 ## Tip Calculator
 
-![band name generator](002_day2.gif)
+![Tip Calculator](002_day2.gif)
 
 https://replit.com/@khatab79/tip-calculator-start#main.py

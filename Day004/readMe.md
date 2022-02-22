@@ -8,6 +8,6 @@
 
 ## Rock Paper Scissors
 
-![band name generator](004_day4.gif)
+![Rock Paper Scissors](004_day4.gif)
 
 https://replit.com/@khatab79/rock-paper-scissors-start#main.py

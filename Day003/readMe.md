@@ -10,6 +10,6 @@
 
 ## Treasure Island
 
-![band name generator](003_day3.gif)
+![Treasure Island](003_day3.gif)
 
 https://replit.com/@khatab79/treasure-island-start#main.py
