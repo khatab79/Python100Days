@@ -15,6 +15,7 @@
 - [Day 5](Day005): Python Loops
 - [Day 6](Day006): Python Functions & Karel
 - [Day 7](Day007): Hangman
+- [Day 8](Day008): Function Parameters & Caesar Cipher
 
 ## Tools and technologies
 
