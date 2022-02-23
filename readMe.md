@@ -16,6 +16,7 @@
 - [Day 6](Day006): Python Functions & Karel
 - [Day 7](Day007): Hangman
 - [Day 8](Day008): Function Parameters & Caesar Cipher
+- [Day 9](Day009): Dictionaries, Nesting and the Secret Auction
 
 ## Tools and technologies
 
