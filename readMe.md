@@ -17,6 +17,7 @@
 - [Day 7](Day007): Hangman
 - [Day 8](Day008): Function Parameters & Caesar Cipher
 - [Day 9](Day009): Dictionaries, Nesting and the Secret Auction
+- [Day 10](Day010): Function Return Values and the Calculator Project
 
 ## Tools and technologies
 

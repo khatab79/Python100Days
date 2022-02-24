@@ -10,4 +10,4 @@
 
 ![Secret Auction](009_day9.gif)
 
-- hhttps://replit.com/@khatab79/blind-auction-start-1#main.py
+- https://replit.com/@khatab79/blind-auction-start-1#main.py
