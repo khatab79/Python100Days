@@ -20,6 +20,7 @@
 - [Day 10](Day010): Function Return Values and the Calculator Project
 - [Day 11](Day011): Blackjack Capstone Project
 - [Day 12](Day012): Scope and Namespacing in Python
+- [Day 13](Day013): Debugging: How to Find and Fix Errors in your Code
 
 ## Tools and technologies
 
