@@ -22,6 +22,8 @@
 - [Day 12](Day012): Scope and Namespacing in Python
 - [Day 13](Day013): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](Day014): Higher Lower Game Project
+## 🏋🏻‍♂️ Intermediate
+- [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
 
 ## Tools and technologies
 
