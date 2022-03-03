@@ -24,6 +24,7 @@
 - [Day 14](Day014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
+- [Day 16](day16): Object Oriented Programming (OOP)
 
 ## Tools and technologies
 

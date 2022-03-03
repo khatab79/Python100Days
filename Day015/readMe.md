@@ -2,11 +2,11 @@
 
 ## Exercise
 
-- 
+- No exerices
 
 
 ## Coffee Machine
 
 ![Coffee Machine](015_day15.gif)
 
-- https://replit.com/@khatab79/higher-lower-start#main.py
+- https://replit.com/@khatab79/coffee-machine-start#main.py
