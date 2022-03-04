@@ -8,20 +8,20 @@
 [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code). 
 
 ## 👨🏻‍🎓 Beginner
-- [Day 1](Day001): Working with Variables in Python to Manage Data
-- [Day 2](Day002): Understanding Data Types and How to Manipulate Strings
-- [Day 3](Day003): Control Flow and Logical Operators
-- [Day 4](Day004): Randomisation and Python Lists
-- [Day 5](Day005): Python Loops
-- [Day 6](Day006): Python Functions & Karel
-- [Day 7](Day007): Hangman
-- [Day 8](Day008): Function Parameters & Caesar Cipher
-- [Day 9](Day009): Dictionaries, Nesting and the Secret Auction
-- [Day 10](Day010): Function Return Values and the Calculator Project
-- [Day 11](Day011): Blackjack Capstone Project
-- [Day 12](Day012): Scope and Namespacing in Python
-- [Day 13](Day013): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](Day014): Higher Lower Game Project
+- [Day 1](001_Beginner/Day001): Working with Variables in Python to Manage Data
+- [Day 2](001_Beginner/Day002): Understanding Data Types and How to Manipulate Strings
+- [Day 3](001_Beginner/Day003): Control Flow and Logical Operators
+- [Day 4](001_Beginner/Day004): Randomisation and Python Lists
+- [Day 5](001_Beginner/Day005): Python Loops
+- [Day 6](001_Beginner/ay006): Python Functions & Karel
+- [Day 7](001_Beginner/ay007): Hangman
+- [Day 8](001_Beginner/ay008): Function Parameters & Caesar Cipher
+- [Day 9](001_Beginner/ay009): Dictionaries, Nesting and the Secret Auction
+- [Day 10](001_Beginner/Day010): Function Return Values and the Calculator Project
+- [Day 11](001_Beginner/Day011): Blackjack Capstone Project
+- [Day 12](001_Beginner/Day012): Scope and Namespacing in Python
+- [Day 13](001_Beginner/Day013): Debugging: How to Find and Fix Errors in your Code
+- [Day 14](001_Beginner/Day014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
 - [Day 16](day16): Object Oriented Programming (OOP)
