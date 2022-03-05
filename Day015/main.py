@@ -9,7 +9,7 @@ from data import resources, MENU
 #     "nickles": 0.05,
 #     "pennies": 0.01,
 # }
-
+#
 PENNIE = 0.01
 NICKLE =  0.05
 DIME = 0.10
