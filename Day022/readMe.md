@@ -8,4 +8,4 @@
 
 ![Pong Game](022_day22.gif)
 
-- https://replit.com/@khatab79/snakegame-1#main.py
+- https://replit.com/@khatab79/ponggame#main.py
