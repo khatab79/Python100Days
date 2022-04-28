@@ -13,30 +13,31 @@
 - [Day 3](001_Beginner/Day003): Control Flow and Logical Operators
 - [Day 4](001_Beginner/Day004): Randomisation and Python Lists
 - [Day 5](001_Beginner/Day005): Python Loops
-- [Day 6](001_Beginner/ay006): Python Functions & Karel
-- [Day 7](001_Beginner/ay007): Hangman
-- [Day 8](001_Beginner/ay008): Function Parameters & Caesar Cipher
-- [Day 9](001_Beginner/ay009): Dictionaries, Nesting and the Secret Auction
+- [Day 6](001_Beginner/Day006): Python Functions & Karel
+- [Day 7](001_Beginner/Day007): Hangman
+- [Day 8](001_Beginner/Day008): Function Parameters & Caesar Cipher
+- [Day 9](001_Beginner/Day009): Dictionaries, Nesting and the Secret Auction
 - [Day 10](001_Beginner/Day010): Function Return Values and the Calculator Project
 - [Day 11](001_Beginner/Day011): Blackjack Capstone Project
 - [Day 12](001_Beginner/Day012): Scope and Namespacing in Python
 - [Day 13](001_Beginner/Day013): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](001_Beginner/Day014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
-- [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
-- [Day 16](day16): Object Oriented Programming (OOP)
-- [Day 17](day17): The Quiz Project & the Benefits of OOP
-- [Day 18](day18): Turtle Graphics and GUIs
-- [Day 19](day19): Instances, State and Higher Order Functions
-- [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22](day22): Build Pong: The Famous Arcade Game
-- [Day 23](day23): The Turtle Crossing Capstone Project
-- [Day 24](day24): Files, Directories and Paths
-- [Day 25](day25): Working with CSV Data and the Pandas Library
-- [Day 26](day26): List Comprehension & the NATO Pilot's Alphabet
-- [Day 27](day27): Tkinter, *args, **kwargs and Creating GUI Programs
-- [Day 28](day28): Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 15](Day015): Local Development Environment Setup & the Coffee Machine Project
+- [Day 16](Day016): Object Oriented Programming (OOP)
+- [Day 17](Day017): The Quiz Project & the Benefits of OOP
+- [Day 18](Day018): Turtle Graphics and GUIs
+- [Day 19](Day019): Instances, State and Higher Order Functions
+- [Day 20](Day020): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21](Day021): Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22](Day022): Build Pong: The Famous Arcade Game
+- [Day 23](Day023): The Turtle Crossing Capstone Project
+- [Day 24](Day024): Files, Directories and Paths
+- [Day 25](Day025): Working with CSV Data and the Pandas Library
+- [Day 26](Day026): List Comprehension & the NATO Pilot's Alphabet
+- [Day 27](Day027): Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28](Day028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29](Day029): Building a Password Manager GUI App with Tkinter
 ## Tools and technologies
 
 - Python 3
