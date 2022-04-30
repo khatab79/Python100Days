@@ -38,6 +38,9 @@
 - [Day 27](Day027): Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28](Day028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](Day029): Building a Password Manager GUI App with Tkinter
+- [Day 30](Day030): Errors, Exceptions and JSON Data: Improving the Password Manager
+
+
 ## Tools and technologies
 
 - Python 3
