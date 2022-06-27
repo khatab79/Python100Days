@@ -1,7 +1,7 @@
 <p align="center">
-<img width="" src="https://media.giphy.com/media/3o6Ztp9sgPwz71EIne/giphy.gif" align="center" alt="gif" />
-<h1 align="center">100 Days of Python 
-</h1>
+    <img width="" src="https://media.giphy.com/media/3o6Ztp9sgPwz71EIne/giphy.gif" align="center" alt="gif" />
+    <h1 align="center">100 Days of Python 
+    </h1>
 </p>
 
 
@@ -39,7 +39,7 @@
 - [Day 28](Day028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](Day029): Building a Password Manager GUI App with Tkinter
 - [Day 30](Day030): Errors, Exceptions and JSON Data: Improving the Password Manager
-
+- [Day 31](Day031): Capstone Project - Flash Card App
 
 ## Tools and technologies
 
