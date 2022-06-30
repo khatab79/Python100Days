@@ -23,24 +23,26 @@
 - [Day 13](001_Beginner/Day013): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](001_Beginner/Day014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
-- [Day 15](Day015): Local Development Environment Setup & the Coffee Machine Project
-- [Day 16](Day016): Object Oriented Programming (OOP)
-- [Day 17](Day017): The Quiz Project & the Benefits of OOP
-- [Day 18](Day018): Turtle Graphics and GUIs
-- [Day 19](Day019): Instances, State and Higher Order Functions
-- [Day 20](Day020): Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21](Day021): Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22](Day022): Build Pong: The Famous Arcade Game
-- [Day 23](Day023): The Turtle Crossing Capstone Project
-- [Day 24](Day024): Files, Directories and Paths
-- [Day 25](Day025): Working with CSV Data and the Pandas Library
-- [Day 26](Day026): List Comprehension & the NATO Pilot's Alphabet
-- [Day 27](Day027): Tkinter, *args, **kwargs and Creating GUI Programs
-- [Day 28](Day028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- [Day 29](Day029): Building a Password Manager GUI App with Tkinter
-- [Day 30](Day030): Errors, Exceptions and JSON Data: Improving the Password Manager
-- [Day 31](Day031): Capstone Project - Flash Card App
-
+- [Day 15](002_Intermediate/Day015): Local Development Environment Setup & the Coffee Machine Project
+- [Day 16](002_Intermediate/Day016): Object-Oriented Programming (OOP)
+- [Day 17](002_Intermediate/Day017): The Quiz Project & the Benefits of OOP
+- [Day 18](002_Intermediate/Day018): Turtle Graphics and GUIs
+- [Day 19](002_Intermediate/Day019): Instances, State and Higher Order Functions
+- [Day 20](002_Intermediate/Day020): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21](002_Intermediate/Day021): Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22](002_Intermediate/Day022): Build Pong: The Famous Arcade Game
+- [Day 23](002_Intermediate/Day023): The Turtle Crossing Capstone Project
+- [Day 24](002_Intermediate/Day024): Files, Directories and Paths
+- [Day 25](002_Intermediate/Day025): Working with CSV Data and the Pandas Library
+- [Day 26](002_Intermediate/Day026): List Comprehension & the NATO Pilot's Alphabet
+- [Day 27](002_Intermediate/Day027): Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28](002_Intermediate/Day028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29](002_Intermediate/Day029): Building a Password Manager GUI App with Tkinter
+- [Day 30](002_Intermediate/Day030): Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31](002_Intermediate/Day031): Capstone Project - Flash Card App
+## 💪 Intermediate+
+- [Day 32](003_Intermediate+/Day032): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
+- [Day 33](003_Intermediate+/Day033): API Endpoints and API Parameters - ISS Overhead Notifier
 ## Tools and technologies
 
 - Python 3
