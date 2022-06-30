@@ -3,12 +3,9 @@ import requests
 
 
 def get_quote():
-    response = requests.get("https://api.kanye.rest")
-    response.raise_for_status()
-    data = response.json()
-    quote = data["quote"]
-    canvas.itemconfig(quote_text, text=quote)
-
+    data = requests.get(url="https://api.kanye.rest/").json()
+    quote = data['quote']
+    canvas.itemconfig(quote_text, text= quote)
 
 window = Tk()
 window.title("Kanye Says...")
