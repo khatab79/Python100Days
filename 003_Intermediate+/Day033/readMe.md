@@ -4,7 +4,7 @@
 
 - None
 
-## Birthday:
+## Flash Card:
 
 ![Birthday](032_day32_Birthday.gif)
 
