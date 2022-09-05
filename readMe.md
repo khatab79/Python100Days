@@ -43,6 +43,7 @@
 ## 💪 Intermediate+
 - [Day 32](003_Intermediate+/Day032): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 - [Day 33](003_Intermediate+/Day033): API Endpoints and API Parameters - ISS Overhead Notifier
+- [Day 34](003_Intermediate+/Day034) : Creating a GUI Quiz App
 ## Tools and technologies
 
 - Python 3
